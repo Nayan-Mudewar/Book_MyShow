@@ -9,7 +9,7 @@ from services.searchservice import SearchService
 from datetime import datetime
 
 # Users
-user1 = User("u1", "Nayan")
+user1 = User("u1", "Nayan","nayanmudewar2002@gmail.com")
 
 # Movies
 movie1 = Movie("m1", "Jawan", 160, "Hindi")
